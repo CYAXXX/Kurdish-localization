@@ -1,2 +1,19 @@
-# Kurdish-localization
-A list of apps and networks translated into Kurdish (Kurmanji)
+## Kurdish-localization: Apps and Tools
+
+1. [DuckDuckGo](https://duckduckgo.com/)
+2. [Vivaldi](https://vivaldi.com/)
+3. [OBS Studio](https://obsproject.com/)
+4. [Arch Installer](https://github.com/archlinux/archinstall)
+5. [Kurdish (Kurmanji) Keyboard](https://github.com/Zinaro/KurdishKurmanjiKeyboard)
+6. [Mastodon](https://joinmastodon.org/ku)
+7. [ImageGlass](https://imageglass.org/)
+8. [qView](https://interversehq.com/qview/)
+9. [Quick Picture Viewer](https://moduleart.github.io/quickpictureviewer)
+10. [SongTube](https://github.com/SongTube/SongTube-App/)
+11. [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
+12. [Nuclear](https://nuclearplayer.com/)
+13. [Dopamine](https://github.com/digimezzo/dopamine)
+14. [Kiwi Browser](https://github.com/kiwibrowser/src.next)
+15. [UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/)
+16. [Whoogle](https://github.com/benbusby/whoogle-search/)
+17. [Roundcube Webmail](https://roundcube.net/)
