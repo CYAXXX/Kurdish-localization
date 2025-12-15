@@ -3,7 +3,7 @@
 1. [DuckDuckGo](https://duckduckgo.com/)
 2. [Vivaldi](https://vivaldi.com/)
 3. [OBS Studio](https://obsproject.com/)
-4. [Arch Installer](https://github.com/archlinux/archinstall)
+4. [Arch Installer](https://archlinux.org/)
 5. [Kurdish (Kurmanji) Keyboard](https://github.com/Zinaro/KurdishKurmanjiKeyboard)
 6. [Telegram](https://t.me/setlanguage/cyaxares)
 7. [Mastodon](https://joinmastodon.org/ku)
