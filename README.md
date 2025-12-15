@@ -17,3 +17,9 @@
 15. [UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/)
 16. [Whoogle](https://github.com/benbusby/whoogle-search/)
 17. [Roundcube Webmail](https://roundcube.net/)
+## Ferhenga Dijîtal
+
+**Ferhenga Dijîtal** is a digital Kurdish dictionary (Kurmanji).
+
+🌐 [Website](https://ferheng-pmfg896bp0j0.deno.dev/)  
+📝 Description: Digital dictionary resource, not a translation project.
