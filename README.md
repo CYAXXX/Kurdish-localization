@@ -14,10 +14,11 @@
 12. [Retro Music Player](https://play.google.com/store/apps/details?id=code.name.monkey.retromusic)
 13. [Nuclear](https://nuclearplayer.com/)
 14. [Dopamine](https://github.com/digimezzo/dopamine)
-15. [Kiwi Browser](https://github.com/kiwibrowser/src.next)
-16. [UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/)
-17. [Whoogle](https://github.com/benbusby/whoogle-search/)
-18. [Roundcube Webmail](https://roundcube.net/)
+15. [Harmonoid](https://harmonoid.com/)
+17. [Kiwi Browser](https://github.com/kiwibrowser/src.next)
+18. [UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/)
+19. [Whoogle](https://github.com/benbusby/whoogle-search/)
+20. [Roundcube Webmail](https://roundcube.net/)
 ## Ferhenga Dijîtal
 
 **Ferhenga Dijîtal** is a digital Kurdish dictionary (Kurmanji).
