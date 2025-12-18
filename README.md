@@ -19,6 +19,7 @@
 18. [UntrackMe](https://f-droid.org/en/packages/app.fedilab.nitterizeme/)
 19. [Whoogle](https://github.com/benbusby/whoogle-search/)
 20. [Roundcube Webmail](https://roundcube.net/)
+21. [OpenMultiMaps](https://www.openstreetmap.org/#map=6/51.33/10.45)
 ## Ferhenga Dijîtal
 
 **Ferhenga Dijîtal** is a digital Kurdish dictionary (Kurmanji).
