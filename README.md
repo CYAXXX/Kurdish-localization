@@ -4,7 +4,7 @@
 2. [Vivaldi](https://vivaldi.com/)
 3. [OBS Studio](https://obsproject.com/)
 4. [Arch Installer](https://archlinux.org/)
-5. [Kurdish (Kurmanji) Keyboard](https://github.com/Zinaro/KurdishKurmanjiKeyboard)
+5. [Kurdish (Kurmanji) Keyboard for Linux](https://github.com/Zinaro/KurdishKurmanjiKeyboard)
 6. [Noctalia](https://docs.noctalia.dev/)
 7. [Telegram](https://t.me/setlanguage/cyaxares)
 8. [Mastodon](https://joinmastodon.org/ku)
@@ -25,5 +25,5 @@
 
 **Ferhenga Dijîtal** is a digital Kurdish dictionary (Kurmanji).
 
-🌐 [Website](https://ferheng-pmfg896bp0j0.deno.dev/)  
-📝 Description: Digital dictionary resource, not a translation project.
+[Website](https://ferheng-pmfg896bp0j0.deno.dev/)  
+Description: Digital dictionary resource, not a translation project.
