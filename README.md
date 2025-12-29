@@ -1,4 +1,5 @@
-## Kurdish-localization: Apps and Tools
+## Kurdish-localization: 
+Pioneering the first open-source Kurdish (Kurmanji) localization for software and digital tools. Making technology accessible in Kurdish, one line of code at a time.
 
 1. [DuckDuckGo](https://duckduckgo.com/)
 2. [Vivaldi](https://vivaldi.com/)
@@ -21,9 +22,7 @@
 19. [Whoogle](https://github.com/benbusby/whoogle-search/)
 20. [Roundcube Webmail](https://roundcube.net/)
 21. [OpenMultiMaps](https://www.openstreetmap.org/#map=6/51.33/10.45)
-## Ferhenga Dijîtal
+## Ferhenga Dijîtal: 
+The first and only digital dictionary for Kurdish (Kurmanji) tech terms PC, software, IT, and programming. Standardized. Precise. Essential.
 
-**Ferhenga Dijîtal** is a digital Kurdish dictionary (Kurmanji).
-
-[Website](https://ferheng-pmfg896bp0j0.deno.dev/)  
-Description: Digital dictionary resource, not a translation project.
+[Ferhenga Dijîtal](https://ferheng-pmfg896bp0j0.deno.dev/)
